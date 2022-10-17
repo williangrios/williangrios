@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williangrios
-- 👀 I’m interested in blockchain dev
-- 🌱 I’m currently learning blockchain dev
-- 💞️ I’m looking to collaborate on blockchain dev
+- 👀 I’m interested in blockchain 
+- 🌱 I’m currently learning blockchain 
+- 💞️ I’m looking to collaborate on blockchain 
 - 📫 How to reach me: in blockchain
 
 <!---
